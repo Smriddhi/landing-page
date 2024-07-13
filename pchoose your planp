@@ -1,0 +1,12 @@
+<p>Choose your plan:</p>
+
+<form>
+  <input type="radio" id="monthly" name="plan" value="Monthly">
+  <label for="monthly">Monthly</label><br>
+  <input type="radio" id="quarterly" name="plan" value="Quarterly">
+  <label for="quarterly">Ouarterly</label><br>
+ <input type="radio" id="yearly" name="plan" value="Yearly">
+  <label for="yearly">Yearly</label><br>
+ <input type="radio" id="pro" name="plan" value="Pro">
+  <label for="pro">Pro</label><br>
+</form>
